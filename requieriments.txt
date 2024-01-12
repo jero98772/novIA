@@ -1,0 +1,5 @@
+SpeechRecognition
+opencv-python
+gtts
+llama-cpp-python
+moviepy
